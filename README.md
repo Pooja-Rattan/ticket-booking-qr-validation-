@@ -50,7 +50,7 @@ QR Code Generation: Python qrcode + pillow
 
 1️⃣ Clone this repo
 
-git clone https://github.com/your-username/ticket-booking-qr-validation.git
+git clone https://github.com/pooja-rattan/ticket-booking-qr-validation.git
 cd ticket-booking-qr-validation
 
 2️⃣ Create & activate virtual environment
