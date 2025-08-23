@@ -46,26 +46,4 @@ Database: JSON file (for simplicity)
 
 QR Code Generation: Python qrcode + pillow
 
----
-
-1️⃣ Clone this repo
-
-git clone https://github.com/Pooja-Rattan/ticket-booking-qr-validation.git
-cd ticket-booking-qr-validation
-
-2️⃣ Create & activate virtual environment
-
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-
-3️⃣ Install dependencies
-
-pip install -r requirements.txt
-
----
-
-▶️ Run the App
-
-python app.py
-
 
