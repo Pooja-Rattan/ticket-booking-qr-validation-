@@ -33,3 +33,15 @@ Booking Form → Enter name + seat
 E-Ticket → Displays passenger info + QR code
 
 Validation Page → Check if ticket is valid
+
+---
+
+⚙️ Tech Stack
+
+Backend: Python (Flask)
+
+Frontend: HTML, CSS
+
+Database: JSON file (for simplicity)
+
+QR Code Generation: Python qrcode + pillow
