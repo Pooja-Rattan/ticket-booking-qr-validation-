@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>Your Ticket</title></head>
+<body>
+    <h2>✅ Ticket Confirmed</h2>
+    <p><b>Name:</b> {{ booking.name }}</p>
+    <p><b>Seat:</b> {{ booking.seat }}</p>
+    <p><b>Booking ID:</b> {{ booking.id }}</p>
+    <img src="/{{ qr_path }}" alt="QR Code">
+    <br><br>
+    <a href="/">Back to Home</a>
+</body>
+</html>
