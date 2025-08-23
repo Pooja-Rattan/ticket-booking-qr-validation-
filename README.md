@@ -1,4 +1,17 @@
 # ticket-booking-qr-validation-
+A simple Ticket Booking & QR Validation System built with Python (Flask).
+Passengers can:
+
+Reserve seats online
+
+Receive a digital e-ticket with QR code
+
+Validate tickets using Booking ID (QR code simulation)
+
+
+Lightweight project ideal for students, beginners, and mini-projects.
+
+
 🎯 Features
 
 ✅ Book a seat with passenger details
